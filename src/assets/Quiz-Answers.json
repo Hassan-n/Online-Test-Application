@@ -1,0 +1,102 @@
+{
+  "questions": [
+    {
+      "questionText": "Which of the following is a Python data type?",
+      "options": [
+        {
+          "text": "String"
+        },
+        {
+          "text": "Integer"
+
+        },
+        {
+          "text": "List"
+        },
+        {
+          "text": "All of the above",
+           "correct": true
+        }
+      ],
+      "explanation": "That's incorrect. The correct answer is: All of the above"
+    },
+    {
+      "questionText": "What does HTML stand for?",
+      "options": [
+        {
+          "text": "HyperText Markup Language",
+          "correct": true
+        },
+        {
+          "text": "HighText Machine Language"
+        },
+        {
+          "text": "HyperText Machine Language"
+
+        },
+        {
+          "text": "HighText Markup Language"
+        }
+      ],
+      "explanation": "That's incorrect. The correct answer is: HyperText Markup Language"
+    },
+    {
+      "questionText": "In Java, which keyword is used to inherit a class?",
+      "options": [
+        {
+          "text": "implement"
+        },
+        {
+          "text": "inherit"
+        },
+        {
+          "text": "extends",
+          "correct": true
+        },
+        {
+          "text": "inherits"
+        }
+      ],
+      "explanation": "That's incorrect. The correct answer is: extends"
+    },
+    {
+      "questionText": "Which of the following is not a valid variable name in Python?",
+      "options": [
+        {
+          "text": "my_var"
+        },
+        {
+          "text": "_var"
+        },
+        {
+          "text": "2var",
+          "correct": true
+        },
+        {
+          "text": "var2"
+        }
+      ],
+      "explanation": "That is incorrect, the correct answer is 2var"
+    },
+    {
+      "questionText": "Which of the following is a loop structure in Python?",
+      "options": [
+        {
+          "text": "while"
+
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "Both",
+           "correct": true
+        },
+        {
+          "text": "None of the above"
+        }
+      ],
+      "explanation": "That's incorrect. The correct answer is: both"
+    }
+  ]
+}
